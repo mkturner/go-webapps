@@ -16,7 +16,7 @@ func main() {
 	somethingToSay = "Goodbye, Sayaonara, Ciao!"
 
 	// Print the value to the screen
-	fmt.Println(somethingToSay)xcdc
+	fmt.Println(somethingToSay)
 
 	i = 9
 	fmt.Println("i is set to", i)
